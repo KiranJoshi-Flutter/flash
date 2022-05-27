@@ -14,7 +14,7 @@
 	
 	<bean id="tyre" class="com.keronz.Telusko.Tyre">
 		<!-- <property name="brand" value="CEAT"></property> -->
-		<constructor-arg value="MRFF"></constructor-arg>
+		<constructor-arg value="MRF"></constructor-arg>
 	</bean>
 	
 </beans>
