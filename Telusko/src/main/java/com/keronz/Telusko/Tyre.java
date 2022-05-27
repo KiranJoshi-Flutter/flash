@@ -21,8 +21,6 @@ public class Tyre {
 	public String toString() {
 		return "Tyre [brand=" + brand + "]";
 	}
-	
-	
 	  
 	
 }
